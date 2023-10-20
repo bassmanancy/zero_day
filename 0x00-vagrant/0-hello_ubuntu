@@ -1,2 +1,2 @@
 #!/bin/bash
-ssh ubuntu@<ip_address_of_vm>
+ssh ubuntu@Linux
